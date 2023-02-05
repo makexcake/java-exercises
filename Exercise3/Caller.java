@@ -26,7 +26,7 @@ public class Caller
         //A.printArr(arr3);
         //A.printArr(mat);
 
-        System.out.println(Ex14.cntTrueReg(mat));
+        System.out.println(Ex3.cntTrueReg(mat));
         //A.printArr(mat);
 
         //A.printArr(arr3);

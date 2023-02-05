@@ -2,7 +2,7 @@
  * Represents a polygon with up to 10 vertices 
  * on two diemtional plane.
  * 
- * @author Vitaly Nudelman 320734346
+ * @author makexcake
  * @version 05/12/2020
  */
 
@@ -48,7 +48,7 @@ public class Polygon
     {   
         if (_noOfVertices > 0)
         {
-            //to avoid comma in the start of the string
+            //to not print a comma in the start of the string
             String toString = new String ("(" + _vertices[0]);
 
             for(int i = 1; i < _noOfVertices; i++)
@@ -246,7 +246,7 @@ public class Polygon
                 leftX = Math.min(leftX, _vertices[i].getX());
             }
 
-            //find right X
+            //find right X value
             rightX = _vertices[0].getX();
 
             for (int i = 1; i < _noOfVertices; i++)
