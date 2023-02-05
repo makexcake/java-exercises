@@ -2,7 +2,7 @@
  * Represents a point in polar system in the
  * first quadrant.
  * 
- * @author Vitaly Nudelman 320734346
+ * @author makexcake
  * @version 25/11/2020
 */
 public class Point
