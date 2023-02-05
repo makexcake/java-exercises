@@ -2,7 +2,7 @@
  * Represents a segment parallel to the x axis 
  * in the first quadrant.
  * 
- * @author Vitaly Nudelman 320734346
+ * @author makexcake
  * @version 26/11/2020
  */
 public class Segment2
