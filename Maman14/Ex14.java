@@ -1,5 +1,5 @@
 /**
- * @author Vitaly Nudelman 320734346
+ * @author makexcake
  * @version 15/01/2021
  */
 public class Ex14 
