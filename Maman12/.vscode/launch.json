@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Caller",
+            "request": "launch",
+            "mainClass": "Caller",
+            "projectName": "Maman12_8fdf7088"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PolygonTestRun",
+            "request": "launch",
+            "mainClass": "PolygonTestRun",
+            "projectName": "Maman12_8fdf7088"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Segment1TestRun",
+            "request": "launch",
+            "mainClass": "Segment1TestRun",
+            "projectName": "Maman12_8fdf7088"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PointTestRun",
+            "request": "launch",
+            "mainClass": "PointTestRun",
+            "projectName": "Maman12_8fdf7088"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SegmentTestRun",
+            "request": "launch",
+            "mainClass": "SegmentTestRun",
+            "projectName": "Maman12_8fdf7088"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestRun<Maman12_8fdf7088>",
+            "request": "launch",
+            "mainClass": "TestRun",
+            "projectName": "Maman12_8fdf7088"
+        }
+    ]
+}
